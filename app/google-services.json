@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788476382017",
+    "project_id": "susayaci3",
+    "storage_bucket": "susayaci3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788476382017:android:e176cfb9d64e09ab2a2fc0",
+        "android_client_info": {
+          "package_name": "com.mucahit.susayaci3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788476382017-l3e97fennvf2idofbra5qsgjct2ur64a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjL5-ABH-9wvnxzt_x5arJT1D22dYDoB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788476382017-l3e97fennvf2idofbra5qsgjct2ur64a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
